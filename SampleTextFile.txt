@@ -3,4 +3,6 @@
 Sample text file:
 1) Gary Hrezo
 
-2) 
+2)
+
+3) Brian Ellingson
